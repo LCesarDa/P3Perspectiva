@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\P3Perspectiva\P3Perspectiva\obj\Debug\P3Perspectiva.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\P3Perspectiva\P3Perspectiva\obj\Debug\P3Perspectiva.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\P3Perspectiva\P3Perspectiva\obj\Debug\P3Perspectiva.Properties.Resources.resources
+\\Mac\Home\Documents\P3Perspectiva\P3Perspectiva\obj\Debug\P3Perspectiva.csproj.GenerateResource.cache
+\\Mac\Home\Documents\P3Perspectiva\P3Perspectiva\obj\Debug\P3Perspectiva.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\P3Perspectiva\P3Perspectiva\bin\Debug\P3Perspectiva.exe.config
+\\Mac\Home\Documents\P3Perspectiva\P3Perspectiva\bin\Debug\P3Perspectiva.exe
+\\Mac\Home\Documents\P3Perspectiva\P3Perspectiva\bin\Debug\P3Perspectiva.pdb
+\\Mac\Home\Documents\P3Perspectiva\P3Perspectiva\obj\Debug\P3Perspectiva.exe
+\\Mac\Home\Documents\P3Perspectiva\P3Perspectiva\obj\Debug\P3Perspectiva.pdb
+\\Mac\Home\Documents\P3Perspectiva\P3Perspectiva\obj\Debug\P3Perspectiva.Form1.resources
